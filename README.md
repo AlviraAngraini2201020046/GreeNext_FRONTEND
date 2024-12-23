@@ -47,4 +47,4 @@ FarmEduZ adalah platform pelatihan pertanian yang dirancang untuk membantu masya
      [Greenext Backend Server](https://github.com/BismaBendesa/Greenext-Server)  
 
 
-TIM : GeeNext 
+TIM : GreeNext 
